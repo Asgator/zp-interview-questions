@@ -1,0 +1,10 @@
+{
+  "name": "test-works-zp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anatoly Popov <a.popov@zarplata.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
