@@ -5,6 +5,12 @@
   "author": "Anatoly Popov <a.popov@zarplata.ru>",
   "license": "MIT",
   "dependencies": {
+    "flow": "^0.2.3",
     "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.82.0"
   }
 }
